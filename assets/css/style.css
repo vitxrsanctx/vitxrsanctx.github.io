@@ -462,7 +462,7 @@ section {
 # Services
 --------------------------------------------------------------*/
 .services {
-  background-color: #d6d6d6;
+  background-color: #f6fafa;
 }
 .services .icon-box {
   margin-bottom: 20px;
@@ -724,7 +724,7 @@ section {
 --------------------------------------------------------------*/
 .team {
 
-  background-color: #d6d6d6;
+  background-color: #f6fafa;
 }
 
 .team .member {
@@ -773,6 +773,9 @@ section {
 /*--------------------------------------------------------------
 # Contact Us
 --------------------------------------------------------------*/
+.contact {
+  background-color: #fff;
+}
 .contact .contact-about h3 {
   font-size: 36px;
   margin: 0 0 10px 0;
